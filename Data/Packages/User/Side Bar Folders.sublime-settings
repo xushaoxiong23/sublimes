@@ -2,7 +2,25 @@
 	"folders":
 	[
 		{
+			"path": "D:\\演讲"
+		},
+		{
 			"path": "C:\\wamp\\www"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Downloads\\流行框架反馈"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Downloads"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Documents\\视频\\移动web视频\\01-移动web开发-第1天-2015年12月12日-{Bootstrap，微金所案例}\\libraries\\bootstrap-3.3.6\\less"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Documents\\视频\\HTML5 第2天\\4-code"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Documents\\视频\\CSS第3天\\CSS第三天\\4-源代码"
 		},
 		{
 			"path": "C:\\Users\\zhengwei\\Documents\\视频\\CSS第3天\\4-源代码"
@@ -11,19 +29,175 @@
 			"path": "C:\\Users\\zhengwei\\Documents\\视频\\CSS第2天\\CSS第二天\\4-源代码"
 		},
 		{
-			"path": "C:\\Users\\zhengwei\\Documents\\Tencent Files\\1264807952\\FileRecv\\whh(1)"
+			"path": "C:\\Users\\zhengwei\\Documents\\study"
 		},
 		{
-			"path": "C:\\Users\\zhengwei\\Desktop\\工作内容\\移动web备课\\jd1"
+			"path": "C:\\Users\\zhengwei\\Desktop\\演讲"
 		},
 		{
-			"path": "C:\\Users\\zhengwei\\Desktop\\工作内容\\移动web备课\\jd"
+			"path": "C:\\Users\\zhengwei\\Desktop\\workspace\\其他\\移动web备课\\郑维移动web第八天\\wjs1"
 		},
 		{
-			"path": "C:\\Users\\zhengwei\\Desktop\\工作内容\\移动web备课"
+			"path": "C:\\Users\\zhengwei\\Desktop\\workspace\\其他\\移动web备课\\郑维移动web第五天\\jd1"
 		},
 		{
-			"path": "C:\\Users\\zhengwei\\Desktop\\工作内容"
+			"path": "C:\\Users\\zhengwei\\Desktop\\workspace\\其他\\移动web备课\\郑维移动web第五天\\jd"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\workspace\\其他\\移动web备课\\双12活动"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\workspace\\其他\\Docs\\設站\\weixin"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\workspace\\manmanmai\\MMBAPP"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\workspace\\manmanmai\\angular-demo"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\workspace\\heima04\\MobileWeb\\day06\\3-code\\jd"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\workspace\\heima04\\MobileWeb"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\workspace\\heima03\\移动web\\day05\\3-code\\jd"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\workspace\\heima03\\angular\\day05\\4-code\\moviecat-app"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\workspace\\heima03\\angular\\day04\\4-code\\路由的使用"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\workspace\\heima03\\angular\\day03\\4-code\\todomvc"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\workspace\\heima03\\angular\\day02\\3-其他资料\\预习资料\\todomvc-app-template"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\workspace\\heima03\\angular\\day01\\libraries\\angular-1.5.0-rc.1"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\workspace\\heima03\\angular\\day01\\4-code"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\workspace\\heima03\\angular"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\workspace\\heima01"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\workspace\\12Term\\day12"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\workspace\\12Term\\day03\\4-code\\04 过渡"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\workspace\\12Term\\day01\\4-code"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\workspace\\12Term\\day01"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\workspace\\12Term"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\workspace\\10期\\day06\\jd-完整版"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\workspace\\08 流行框架\\2016-12-12 流行框架 第5天{格式化数据过滤器的使用、$scope.$apply方法的使用说明、分支的(创建、查看、合并、切换和删除)、git(clone、 push、 pull)使用}\\4-源代码\\todomvc"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\workspace\\08 流行框架\\2016-12-10 流行框架 第4天{filter过滤器的使用、自定义服务的基本使用、路由的基本介绍、根据URL变化展示不同状态的任务、使用服务模块完成ToDoMVC(案例)}\\04-源代码\\todomvc"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\weijinsuo"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\webpack\\demo\\react-app"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\webpack\\demo\\ionic-wechat"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\webpack\\demo\\angular2-quickstart"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\webpack\\demo\\aaa\\MMBAPP\\dist"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\webpack\\demo\\aaa\\MMBAPP"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\tools\\feiqiu\\feiq\\Recv Files\\todomvc-app-template222"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\tools\\feiqiu\\feiq\\Recv Files\\todomvc-app-template1"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\tools\\feiqiu\\feiq\\Recv Files\\todomvc-app-template(8)"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\tools\\feiqiu\\feiq\\Recv Files\\todomvc-app-template(7)"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\tools\\feiqiu\\feiq\\Recv Files\\todomvc-app-template(6)"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\tools\\feiqiu\\feiq\\Recv Files\\todomvc-app-template(5)"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\tools\\feiqiu\\feiq\\Recv Files\\todomvc-app-template(4)"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\tools\\feiqiu\\feiq\\Recv Files\\todomvc-app-template(3)"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\tools\\feiqiu\\feiq\\Recv Files\\todomvc-app-template(2)"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\tools\\feiqiu\\feiq\\Recv Files\\todomvc-app-template(1)"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\tools\\feiqiu\\feiq\\Recv Files\\todomvc-app-template"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\tools\\feiqiu\\feiq\\Recv Files\\moviecat-app-temp(3)"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\tools\\feiqiu\\feiq\\Recv Files\\moviecat-app-temp(2)"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\tools\\feiqiu\\feiq\\Recv Files\\moviecat-app-temp(1)"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\tools\\feiqiu\\feiq\\Recv Files\\moviecat-app-temp"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\tools\\feiqiu\\feiq\\Recv Files\\angular-sanitize"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\tools\\feiqiu\\blog\\hexo\\source\\_posts"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\tools\\feiqiu\\blog\\hexo\\.deploy_git"
+		},
+		{
+			"path": "C:\\Users\\zhengwei\\Desktop\\jd"
+		},
+		{
+			"path": "C:\\Users\\Public\\Nwt\\cache\\recv\\王伟东\\mjd"
+		},
+		{
+			"path": "C:\\Users\\Public\\Nwt\\cache\\recv\\庞飞龙\\动态生成表格"
+		},
+		{
+			"path": "C:\\Users\\Public\\Nwt\\cache\\recv\\吕春爱\\jd"
+		},
+		{
+			"path": "C:\\Users\\Public\\Nwt\\cache\\recv\\丁关荣\\慢慢买比价网(1)"
 		}
 	]
 }

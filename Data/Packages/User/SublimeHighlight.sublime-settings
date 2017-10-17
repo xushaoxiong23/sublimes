@@ -1,0 +1,6 @@
+{
+    "theme": "vim",
+    "linenos": "inline",
+    "noclasses": true,
+    "fontface": "Menlo"
+}

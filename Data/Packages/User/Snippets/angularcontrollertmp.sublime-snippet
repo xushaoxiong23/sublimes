@@ -1,0 +1,27 @@
+<snippet>
+	<content><![CDATA[
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<!-- 2.在页面上指定一个ng-app 表示body里面的内容属于angular的管辖范围-->
+<!-- 3.在页面中通过ng-controller指令指定创建的控制器名 指定哪个angular的控制器来管理页面(其实所谓的管理页面就是给页面提供数据和行为) -->
+<body ng-app="${1:myApp}" ng-controller="${2:testController}">
+	 <!-- 1.引入angular js文件 -->
+	 <script src="${3:node_modules/angular/angular.js}"></script>
+	 <script>   
+    var app = angular.module('${1:myApp}', []);
+    app.controller('${2:testController}', ['${4:}',function(${4:}) {
+    		${5:}
+    }]);
+    </script>
+</body>
+</html>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ngc</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.html</scope> -->
+</snippet>

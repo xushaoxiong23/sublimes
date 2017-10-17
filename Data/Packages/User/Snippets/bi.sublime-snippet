@@ -1,9 +1,13 @@
 <snippet>
   <content><![CDATA[
-console.log($);
+ @media (min-width:768px) {
+        .container {
+            width: 750px;
+        }
+    }
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>clg</tabTrigger>
+  <tabTrigger>media</tabTrigger>
   <!-- Optional: Set a scope to limit where the snippet will trigger -->
   <!-- <scope>source.python</scope> -->
   <description>beautify ignore</description>

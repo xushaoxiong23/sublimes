@@ -2,7 +2,7 @@
   "keys": ["ctrl+\\"],
   "command": "toggle_side_bar"
 }, {
-  "keys": ["super+e"],
+  "keys": ["super+e"], 
   "args": {
     "action": "expand_abbreviation"
   },
@@ -11,5 +11,6 @@
     "key": "emmet_action_enabled.expand_abbreviation"
   }]
 },
-{ "keys": ["f12"], "command": "open_in_browser" }
+{ "keys": ["f12"], "command": "open_in_browser" },
+  { "keys": ["ctrl+shift+l"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
 ]

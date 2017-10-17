@@ -1,0 +1,2611 @@
+{
+	"folder_history":
+	[
+		"/E/课程代码/Vue框架-8天/Vue基础第8天代码/01vue项目 - 商品详情 - 实现商品详情中点击购物车按钮后将购买数量同步到底部购物车徽章中.avi",
+		"/E/课程代码/Vue框架-8天/Vue基础第7天代码/12vue项目 - 商品详情 - 实现商品详情页面的购买区域中的inputNumber组件功能.avi",
+		"/E/课程代码/Vue框架-8天/Vue基础第7天代码/11vue项目 - 商品详情 - 实现商品详情页面的评论组件页面.avi",
+		"/E/课程代码/Vue框架-8天/Vue基础第7天代码/10vue项目 - 商品详情 - 实现商品详情页面的图文详情开发.avi",
+		"/E/课程代码/Vue框架-8天/Vue基础第7天代码/09vue项目 - 商品详情 - 实现商品详情页面的详情数据动态化.avi",
+		"/E/课程代码/Vue框架-8天/Vue基础第7天代码/08vue项目 - 商品详情 - 实现商品详情页面的其他区域静态结构设计.avi",
+		"/E/课程代码/Vue框架-8天/Vue基础第7天代码/07vue项目 - 商品详情 - 实现商品轮播图组件的提取silder.vue.avi",
+		"/E/课程代码/Vue框架-8天/Vue基础第7天代码/05vue项目 - 商品详情 - 实现从商品列表页面跳转到详情页面功能代码.avi",
+		"/E/课程代码/Vue框架-8天/Vue基础第7天代码/04vue项目 - 商品购买- 实现商品购买列表页面的数据动态化.avi",
+		"/E/课程代码/Vue框架-8天/Vue基础第7天代码/03vue项目 - 商品购买- 实现商品购买列表页面的静态结构.avi",
+		"/E/课程代码/Vue框架-8天/Vue基础第7天代码/02vue项目 - 图片分享详情- 实现图片分享详情页的缩略图的数据动态化.avi",
+		"/E/课程代码/Vue框架-8天/Vue基础第7天代码/01vue项目 - 图片分享详情- 实现图片分享详情页的缩略图9宫格样式和预览图片vue-preview的使用.avi",
+		"/E/课程代码/Vue框架-8天/Vue基础第5天代码",
+		"/E/Vue框架(8days)/Vue项目第5天/Vue基础第5天代码/vueitcastsy",
+		"/C/Users/Administrator/Desktop/jiashoujia",
+		"/C/Users/Administrator/Desktop/jiao/vuetest/config",
+		"/C/Users/Administrator/Desktop/jiao/vuetest",
+		"/C/Users/Administrator/Desktop/2017.8.21",
+		"/C/Users/Administrator/Desktop/jiashoujia/vuetest",
+		"/C/Users/Administrator/Desktop/test",
+		"/C/Users/Administrator/Desktop/201508222108",
+		"/D/CreamDownload/201508222108",
+		"/C/Users/Administrator/Desktop/项目整理",
+		"/C/Users/Administrator/Desktop/basic",
+		"/C/Users/Administrator/Desktop/MMBAPP",
+		"/C/Users/Administrator/Desktop/test/test 外轮廓动画演示",
+		"/E/Vue框架/Vue基础第4天/Vue基础第4天代码/06webpack配置文件实现url资源打包",
+		"/E/Vue框架/Vue基础第4天/Vue基础第4天代码",
+		"/E/Vue框架/Vue基础第3天/Vue基础第3天代码/webpack学习 - 副本/03webpack配置文件实现css打包/statics/css",
+		"/E/Vue框架/Vue基础第3天/Vue基础第3天代码/webpack学习 - 副本",
+		"/E/Vue框架/Vue基础第3天/Vue基础第3天代码/webpack学习/01webpack命令学习",
+		"/C/Users/Administrator/Desktop/Vue",
+		"/C/Users/Administrator/Desktop/todomvc-app-template-master",
+		"/E/课程代码",
+		"/C/Users/Administrator/Desktop/m-petshow",
+		"/E/课程代码/DOM-六天",
+		"/E/面向对象(7days)/面向对象第六天/面向对象06-课程代码",
+		"/F/Demo/ajax/Angular",
+		"/E/移动web项目/MMBAPP",
+		"/E/流行框架/流行框架day03/代码",
+		"/C/Users/Administrator/Desktop/projectGulp",
+		"/E/流行框架/day01-day03/流行框架day02/代码/projectGulp",
+		"/E/流行框架/day01-day03/流行框架day02/代码/myproject002",
+		"/E/移动web项目/慢慢买第六天/MMBAPP",
+		"/F/Demo/ajax/MobileShopProject ZFK",
+		"/C/Users/Administrator/Desktop/718",
+		"/C/Users/zhengwei/Documents/Tencent Files/228197155/FileRecv/dome",
+		"/C/Users/zhengwei/Desktop/服务器与ajax",
+		"/C/Users/zhengwei/Desktop/服务器与ajax/郑维老师视频和笔记",
+		"/C/Users/zhengwei/Desktop/郑维老师视频和笔记",
+		"/C/Users/zhengwei/Desktop/workspace/heima01/HTML5CSS3",
+		"/C/Users/zhengwei/Desktop/workspace/上海黑马04",
+		"/C/Users/zhengwei/Documents/MMBAPP",
+		"/C/Users/zhengwei/Desktop/webpack/demo/MMBAPP",
+		"/C/Users/zhengwei/Desktop/慢慢买完整版",
+		"/C/Users/zhengwei/Desktop/workspace/其他/移动web备课/郑维移动web第七天",
+		"/C/Users/zhengwei/Desktop/workspace/manmanmai/MMB/MMBAPP",
+		"/C/Users/zhengwei/Desktop/workspace/manmanmai/慢慢买完整版",
+		"/C/Users/zhengwei/Documents/服务器与ajax/代码/ajax",
+		"/C/Users/zhengwei/Desktop/myweb",
+		"/C/Users/zhengwei/Desktop/leyu",
+		"/C/Users/zhengwei/Desktop/upyun",
+		"/C/Users/zhengwei/Downloads/新建文件夹",
+		"/C/Users/zhengwei/Desktop/金华web前端实训/day08",
+		"/C/Users/zhengwei/Desktop/金华web前端实训/day08/3-code/weijinsuo",
+		"/C/Users/zhengwei/Desktop/workspace/金华实训/项目课/day07/3-code/微金所完整版",
+		"/C/Users/zhengwei/Desktop/博雅布局练习作业",
+		"/C/Users/zhengwei/Desktop/01选择器案例",
+		"/C/Users/zhengwei/Documents/CSS第5天案例和笔记",
+		"/C/Users/zhengwei/Desktop/金华web前端实训",
+		"/C/Users/zhengwei/Desktop/workspace/金华实训/基础课/day01/作业",
+		"/C/Users/zhengwei/Desktop/workspace/heima01/HTML5CSS3/day02/4-code/6-HTML5NewAPI",
+		"/C/Users/zhengwei/Desktop/workspace/金华实训",
+		"/C/Users/zhengwei/Desktop/workspace/heima04/MobileWeb/day03",
+		"/C/Users/zhengwei/Desktop/workspace/heima04/MobileWeb/day06/3-code",
+		"/C/Users/zhengwei/Desktop/workspace/其他/基础班作业",
+		"/C/Users/zhengwei/Desktop/moviecat",
+		"/C/Users/zhengwei/Desktop/workspace/heima03/angular/day07/4-code/moviecat-app-temp/dist",
+		"/C/Users/zhengwei/Desktop/webpack/demo/ionic-wechat",
+		"/C/Users/zhengwei/Desktop/workspace/heima03/angular/day07/desk",
+		"/C/Users/zhengwei/Desktop/workspace/heima01/angular项目/day01/MMBAPP纯净版",
+		"/C/Users/zhengwei/Desktop/workspace/manmanmai/MMBAPP",
+		"/C/Users/zhengwei/Desktop/tools/feiqiu/feiq/Recv Files/moviecat-app-temp(2)",
+		"/C/Users/zhengwei/Desktop/tools/feiqiu/feiq/Recv Files/moviecat-app-temp - 副本",
+		"/C/Users/zhengwei/Desktop/tools/feiqiu/feiq/Recv Files/moviecat-app-temp(3)",
+		"/C/Users/zhengwei/Desktop/tools/feiqiu/feiq/Recv Files/moviecat-app-temp(0)",
+		"/C/Users/zhengwei/Desktop/tools/feiqiu/feiq/Recv Files/kong",
+		"/C/Users/zhengwei/Desktop/tools/feiqiu/feiq/Recv Files/moviecat-app-temp(1)",
+		"/C/Users/zhengwei/Desktop/tools/feiqiu/feiq/Recv Files/moviecat-app-temp",
+		"/C/Users/zhengwei/Desktop/tools/feiqiu/feiq/Recv Files/moviecat-app-temp(17)",
+		"/C/Users/zhengwei/Desktop/tools/feiqiu/feiq/Recv Files/artTemplate-master",
+		"/C/Users/zhengwei/Desktop/tools/feiqiu/feiq/Recv Files/moviecat-app-完整版",
+		"/C/Users/zhengwei/Desktop/tools/feiqiu/feiq/Recv Files/moviecat-app-temp(15)",
+		"/C/Users/zhengwei/Desktop/tools/feiqiu/feiq/Recv Files/moviecat-app-temp(16)",
+		"/C/Users/zhengwei/Desktop/tools/feiqiu/feiq/Recv Files/moviecat-app-temp(14)",
+		"/C/Users/zhengwei/Desktop/tools/feiqiu/feiq/Recv Files/moviecat-app-temp(13)",
+		"/C/Users/zhengwei/Desktop/tools/feiqiu/feiq/Recv Files/moviecat-app-temp(12)",
+		"/C/Users/zhengwei/Desktop/tools/feiqiu/feiq/Recv Files/moviecat-app-temp-1",
+		"/C/Users/zhengwei/Desktop/tools/feiqiu/feiq/Recv Files/moviecat-app-temp11",
+		"/C/Users/zhengwei/Desktop/tools/feiqiu/feiq/Recv Files/moviecat-app-temp(new)",
+		"/C/Users/zhengwei/Desktop/tools/feiqiu/feiq/Recv Files/moviecat-app-temp(9)",
+		"/C/Users/zhengwei/Desktop/tools/feiqiu/feiq/Recv Files/moviecat-app-temp(10)",
+		"/C/Users/zhengwei/Desktop/tools/feiqiu/feiq/Recv Files/moviecat-app-temp(8)",
+		"/C/Users/zhengwei/Desktop/tools/feiqiu/feiq/Recv Files/moviecat-app-temp(7)",
+		"/C/Users/zhengwei/Desktop/tools/feiqiu/feiq/Recv Files/moviecat-app-temp(6)",
+		"/C/Users/zhengwei/Desktop/tools/feiqiu/feiq/Recv Files/Packages.rar",
+		"/C/Users/zhengwei/Desktop/tools/feiqiu/feiq/Recv Files/moviecat-app-temp(5)",
+		"/C/Users/zhengwei/Desktop/moviecat-app-temp",
+		"/C/Users/zhengwei",
+		"/C/Users/zhengwei/Desktop/workspace/08 流行框架/2016-12-13 流行框架 第6天{使用ssh提交数据到github、angular中的$http服务说明、jsonp的原理说明、创建自定义服务封装jsonp函数、分页功能根据路由获取数据}/4-源代码/moviecat-app",
+		"/C/Users/zhengwei/Desktop/workspace/08 流行框架/2016-12-12 流行框架 第5天{格式化数据过滤器的使用、$scope.$apply方法的使用说明、分支的(创建、查看、合并、切换和删除)、git(clone、 push、 pull)使用}/4-源代码/moviecat-app",
+		"/C/Users/zhengwei/Desktop/tools/feiqiu/feiq/Recv Files",
+		"/C/Users/zhengwei/Desktop/tools/feiqiu/feiq/Recv Files/moviecatApp",
+		"/C/Users/zhengwei/Desktop/tools/feiqiu/feiq/Recv Files/moviecat-app-temp(4)",
+		"/C/Users/zhengwei/Desktop/workspace/heima03/angular/day05/4-code/moviecat-app",
+		"/D/演讲",
+		"/C/Users/zhengwei/Desktop/workspace/heima03/angular/day04/4-code/路由的使用",
+		"/C/Users/zhengwei/Desktop/tools/feiqiu/feiq/Recv Files/todomvc-app-template1",
+		"/C/Users/zhengwei/Desktop/tools/feiqiu/feiq/Recv Files/todomvc-app-template",
+		"/C/Users/zhengwei/Desktop/tools/feiqiu/feiq/Recv Files/todomvc-app-template222",
+		"/C/Users/zhengwei/Desktop/tools/feiqiu/feiq/Recv Files/todomvc-app-template(8)",
+		"/C/Users/zhengwei/Desktop/tools/feiqiu/feiq/Recv Files/todomvc-app-template(7)",
+		"/C/Users/zhengwei/Desktop/tools/feiqiu/feiq/Recv Files/todomvc-app-template(6)",
+		"/C/Users/zhengwei/Desktop/tools/feiqiu/feiq/Recv Files/todomvc-app-template(5)",
+		"/C/Users/zhengwei/Desktop/tools/feiqiu/feiq/Recv Files/todomvc-app-template(4)",
+		"/C/Users/zhengwei/Desktop/tools/feiqiu/feiq/Recv Files/todomvc-app-template(3)",
+		"/C/Users/zhengwei/Desktop/tools/feiqiu/feiq/Recv Files/todomvc-app-template(1)",
+		"/C/Users/zhengwei/Desktop/tools/feiqiu/feiq/Recv Files/todomvc-app-template(2)"
+	],
+	"last_version": 3114,
+	"last_window_id": 99,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 655.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"to",
+						"toshopcar	(goodsinfo.vue)"
+					],
+					[
+						"goods",
+						"goodscomment"
+					],
+					[
+						"img",
+						"imgs"
+					],
+					[
+						"com",
+						"components	(goodsinfo.vue)"
+					],
+					[
+						"good",
+						"goodlist.vue"
+					],
+					[
+						"creat",
+						"createElement()	Document"
+					],
+					[
+						"pr",
+						"pos-r	position: relative;"
+					],
+					[
+						"flex",
+						"flex-start"
+					],
+					[
+						"trans",
+						"transition"
+					],
+					[
+						"get",
+						"get_num"
+					],
+					[
+						"for",
+						"foreach()	Array"
+					],
+					[
+						"i",
+						"i	<i/>"
+					],
+					[
+						"char",
+						"charAt()	String"
+					],
+					[
+						"router",
+						"router-link	(06watch来监控路由对象.html)"
+					],
+					[
+						"Vue",
+						"VueRouter	(06watch来监控路由对象.html)"
+					],
+					[
+						"content",
+						"content-box	(13.盒模型.html)"
+					],
+					[
+						"news",
+						"newslist	(Home.vue)"
+					],
+					[
+						"q",
+						"querySelector()"
+					],
+					[
+						"getelement",
+						"getElementsByTagName()"
+					],
+					[
+						"send",
+						"senddata"
+					],
+					[
+						"add",
+						"addData	(02实现品牌数据添加.html)"
+					],
+					[
+						"k",
+						"k+\"出现了\"+o"
+					],
+					[
+						"indexO",
+						"indexOf()	Array"
+					],
+					[
+						"stime",
+						"setTimeout()	Frame"
+					],
+					[
+						"fu",
+						"fun	Function"
+					],
+					[
+						"focus",
+						"focus()"
+					],
+					[
+						"f",
+						"fun	Function"
+					],
+					[
+						"key",
+						"keyCode	Event"
+					],
+					[
+						"clear",
+						"clearAll"
+					],
+					[
+						"pop",
+						"popData	(案例.html)"
+					],
+					[
+						"col",
+						"collapse	collapse"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"bc",
+						"bdcl-c	border-collapse: collapse;"
+					],
+					[
+						"setti",
+						"setTimeout()	Frame"
+					],
+					[
+						"int",
+						"setInterval()	Frame"
+					],
+					[
+						"timer",
+						"timerId"
+					],
+					[
+						"ng-",
+						"ng-submit"
+					],
+					[
+						"it",
+						"item"
+					],
+					[
+						"edit",
+						"editing"
+					],
+					[
+						"is",
+						"isEditingId"
+					],
+					[
+						"ed",
+						"editing"
+					],
+					[
+						"margin",
+						"margin-right"
+					],
+					[
+						"remove",
+						"removeChild()"
+					],
+					[
+						"getElements",
+						"getElementsByTagName()"
+					],
+					[
+						"getel",
+						"getElementById()	Document"
+					],
+					[
+						"input",
+						"inputs"
+					],
+					[
+						"inner",
+						"innerText	(01innerHTML和innerText.html)"
+					],
+					[
+						"replace",
+						"replaceClassName	(方法封装.html)"
+					],
+					[
+						"class",
+						"className"
+					],
+					[
+						"ge",
+						"getElements	(07批量获取元素.html)"
+					],
+					[
+						"bgc",
+						"backgroundColor	css"
+					],
+					[
+						"in",
+						"input"
+					],
+					[
+						"no",
+						"no-repeat	(15.背景图片大小及多重背景.html)"
+					],
+					[
+						"ba",
+						"background-repeat	(15.背景图片大小及多重背景.html)"
+					],
+					[
+						"lin",
+						"line-height"
+					],
+					[
+						"border",
+						"border"
+					],
+					[
+						"mar",
+						"margin-left"
+					],
+					[
+						"padding",
+						"padding-left"
+					],
+					[
+						"sett",
+						"setTimeout()	Frame"
+					],
+					[
+						"cit",
+						"cityCode"
+					],
+					[
+						"call",
+						"callback"
+					],
+					[
+						"dg",
+						"dgid	document.getElementById"
+					],
+					[
+						"strig",
+						"stringify()	JSON"
+					],
+					[
+						"res",
+						"responseText	(01-ajax-experience.html)"
+					],
+					[
+						"12-",
+						"12-iframeLogin.php"
+					],
+					[
+						"_",
+						"_POST	(page5-post.php)"
+					],
+					[
+						"re",
+						"recommen"
+					],
+					[
+						"cla",
+						"callback"
+					],
+					[
+						"pag",
+						"page9-nav.php"
+					],
+					[
+						"men",
+						"menu-item"
+					],
+					[
+						"page8",
+						"page8-ajax.php"
+					],
+					[
+						"read",
+						"readyState	Document"
+					],
+					[
+						"cell",
+						"cellspacing	Attr"
+					],
+					[
+						"ce",
+						"cellpadding	Attr"
+					],
+					[
+						"arr",
+						"array	$… = array (…)"
+					],
+					[
+						"header",
+						"header	beautify ignore"
+					],
+					[
+						"json",
+						"json_encode	(php.md)"
+					],
+					[
+						"proto",
+						"prototype"
+					],
+					[
+						"ul-p",
+						"ul-wapper	(index.html)"
+					],
+					[
+						"sc",
+						"scroll"
+					],
+					[
+						"hidden",
+						"hidden-xs"
+					],
+					[
+						"pull",
+						"pull-left"
+					],
+					[
+						"borderr",
+						"border-radius"
+					],
+					[
+						"ac",
+						"active"
+					],
+					[
+						"tr",
+						"transparent"
+					],
+					[
+						"pa",
+						"padding"
+					],
+					[
+						"w",
+						"weijinsuo/"
+					],
+					[
+						"cont",
+						"container"
+					],
+					[
+						"l",
+						"lib/"
+					],
+					[
+						"btn-",
+						"btn-danger	(index.html)"
+					],
+					[
+						"max",
+						"max-width"
+					],
+					[
+						"type",
+						"type=\"button	(12-DOM操作.html)"
+					],
+					[
+						"clas",
+						"classList"
+					],
+					[
+						"image",
+						"images/"
+					],
+					[
+						"docu",
+						"document	(09-for循环.html)"
+					],
+					[
+						"le",
+						"length"
+					],
+					[
+						"shen",
+						"shengao"
+					],
+					[
+						"seh",
+						"shengao"
+					],
+					[
+						"box",
+						"box-sizing"
+					],
+					[
+						"padd",
+						"padding-left"
+					],
+					[
+						"targ",
+						"targetSection"
+					],
+					[
+						"data",
+						"data-target"
+					],
+					[
+						"gete",
+						"getElementsByTagName()"
+					],
+					[
+						"border-r",
+						"border-radius"
+					],
+					[
+						"inf",
+						"infinite	(32-动画的使用.html)"
+					],
+					[
+						"r2c",
+						"r2_c2.png	w:120 h:288"
+					],
+					[
+						"mari",
+						"margin-top"
+					],
+					[
+						"tras",
+						"transform"
+					],
+					[
+						"tran",
+						"translate"
+					],
+					[
+						"r",
+						"r1_c1.png	w:1519 h:44"
+					],
+					[
+						"lef",
+						"left.png	w:37 h:69"
+					],
+					[
+						"xia",
+						"xiaom_left.png	w:234 h:457"
+					],
+					[
+						"z",
+						"z-index"
+					],
+					[
+						"p",
+						"padding-left"
+					],
+					[
+						"padding-",
+						"padding-top"
+					],
+					[
+						"ov",
+						"overflow"
+					],
+					[
+						"b",
+						"button2.jpg	w:80 h:32"
+					],
+					[
+						"text-",
+						"text-align"
+					],
+					[
+						"borde",
+						"border-right"
+					],
+					[
+						"box-",
+						"box-shadow"
+					],
+					[
+						"padin",
+						"padding-bottom"
+					],
+					[
+						"conte",
+						"content-box"
+					],
+					[
+						"box-s",
+						"box-sizing"
+					],
+					[
+						"border-",
+						"border-radius"
+					],
+					[
+						"border-s",
+						"border-style"
+					],
+					[
+						"paddi",
+						"padding-top"
+					],
+					[
+						"bac",
+						"background-image"
+					],
+					[
+						"backg",
+						"background-image"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"last_filter": "pack",
+				"selected_items":
+				[
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"setj",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"open",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"markdow",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"save",
+						"Markdown Preview: Save to HTML"
+					],
+					[
+						"add",
+						"Package Control: Add Repository"
+					],
+					[
+						"addr",
+						"Package Control: Add Repository"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"mar",
+						"Markdown Preview: Save to HTML"
+					],
+					[
+						"openso",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"ex",
+						"Export to HTML: Show Export Menu"
+					],
+					[
+						"markdown",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"d",
+						"File: Delete"
+					],
+					[
+						"de",
+						"File: Delete"
+					],
+					[
+						"pre",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"delet",
+						"File: Delete"
+					],
+					[
+						"prev",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"set html",
+						"Set Syntax: HTML"
+					],
+					[
+						"package",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"r",
+						"Package Control: Remove Package"
+					],
+					[
+						"re",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"mark",
+						"Markdown Preview: Save to HTML"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 650.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/App.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第8天代码/01vue项目 - 商品详情 - 实现商品详情中点击购物车按钮后将购买数量同步到底部购物车徽章中.avi/src/kits/vm.js",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/kits/vm.js",
+				"/E/课程代码/Vue框架-8天/Vue基础第8天代码/01vue项目 - 商品详情 - 实现商品详情中点击购物车按钮后将购买数量同步到底部购物车徽章中.avi/src/App.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第8天代码/01vue项目 - 商品详情 - 实现商品详情中点击购物车按钮后将购买数量同步到底部购物车徽章中.avi/src/components/goods/goodsinfo.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/components/subcom/inputNumber.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/components/subcom/comment.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/components/photo/photolist.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/components/photo/photoinfo.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/components/goods/goodsdesc.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/components/subcom/silder.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/components/goods/goodscomment.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/components/goods/goodsinfo.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/12vue项目 - 商品详情 - 实现商品详情页面的购买区域中的inputNumber组件功能.avi/src/components/subcom/inputNumber.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/12vue项目 - 商品详情 - 实现商品详情页面的购买区域中的inputNumber组件功能.avi/src/components/goods/goodsinfo.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/12vue项目 - 商品详情 - 实现商品详情页面的购买区域中的inputNumber组件功能.avi/src/components/shopcar/car.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/main.js",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/11vue项目 - 商品详情 - 实现商品详情页面的评论组件页面.avi/src/components/goods/goodscomment.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/11vue项目 - 商品详情 - 实现商品详情页面的评论组件页面.avi/src/components/goods/goodsinfo.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/11vue项目 - 商品详情 - 实现商品详情页面的评论组件页面.avi/src/components/goods/goodsdesc.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/10vue项目 - 商品详情 - 实现商品详情页面的图文详情开发.avi/src/components/goods/goodsinfo.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/10vue项目 - 商品详情 - 实现商品详情页面的图文详情开发.avi/src/main.js",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/10vue项目 - 商品详情 - 实现商品详情页面的图文详情开发.avi/src/components/goods/goodsdesc.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/09vue项目 - 商品详情 - 实现商品详情页面的详情数据动态化.avi/src/components/goods/goodsinfo.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/08vue项目 - 商品详情 - 实现商品详情页面的其他区域静态结构设计.avi/src/components/goods/goodsinfo.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/package.json",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/webpack.config.js",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/07vue项目 - 商品详情 - 实现商品轮播图组件的提取silder.vue.avi/src/components/goods/goodsinfo.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/components/Home.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/07vue项目 - 商品详情 - 实现商品轮播图组件的提取silder.vue.avi/src/components/Home.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/07vue项目 - 商品详情 - 实现商品轮播图组件的提取silder.vue.avi/src/components/subcom/silder.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/05vue项目 - 商品详情 - 实现从商品列表页面跳转到详情页面功能代码.avi/src/main.js",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/05vue项目 - 商品详情 - 实现从商品列表页面跳转到详情页面功能代码.avi/src/components/goods/goodslist.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/components/goods/goodslist.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/05vue项目 - 商品详情 - 实现从商品列表页面跳转到详情页面功能代码.avi/src/components/goods/goodsinfo.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/05vue项目 - 商品详情 - 实现从商品列表页面跳转到详情页面功能代码.avi/src/kits/common.js",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/04vue项目 - 商品购买- 实现商品购买列表页面的数据动态化.avi/src/components/goods/goodslist.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/03vue项目 - 商品购买- 实现商品购买列表页面的静态结构.avi/src/components/goods/goodslist.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/03vue项目 - 商品购买- 实现商品购买列表页面的静态结构.avi/src/main.js",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/03vue项目 - 商品购买- 实现商品购买列表页面的静态结构.avi/src/components/photo/photoinfo.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/03vue项目 - 商品购买- 实现商品购买列表页面的静态结构.avi/src/components/photo/photolist.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/03vue项目 - 商品购买- 实现商品购买列表页面的静态结构.avi/src/components/Home.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/03vue项目 - 商品购买- 实现商品购买列表页面的静态结构.avi/src/App.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/components/goods/goodlist.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/components/good/goodlist.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/components/good",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/components/subcom/good",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/kits/common.js",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/02vue项目 - 图片分享详情- 实现图片分享详情页的缩略图的数据动态化.avi/src/kits/common.js",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/02vue项目 - 图片分享详情- 实现图片分享详情页的缩略图的数据动态化.avi/src/components/photo/photoinfo.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/01vue项目 - 图片分享详情- 实现图片分享详情页的缩略图9宫格样式和预览图片vue-preview的使用.avi/src/components/photo/photoinfo.vue",
+				"/E/软件和工具/sublime-zw1/Data/Packages/Sublime-HTMLPrettify-master/.jsbeautifyrc",
+				"/E/课程代码/Vue框架-8天/Vue基础第2天代码/vue生命周期/vue1.0生命周期.html",
+				"/E/Vue框架(8days)/Vue项目第5天/Vue基础第5天代码/vueitcastsy/src/App.vue",
+				"/E/课程代码/面向对象-六天/面向对象05-课程代码/03-递归-阶乘的练习.html",
+				"/E/课程代码/面向对象-六天/面向对象05-课程代码/05-递归-等差数列.html",
+				"/E/课程代码/面向对象-六天/面向对象05-课程代码/07-递归练习.html",
+				"/E/课程代码/面向对象-六天/面向对象06-课程代码/04-构造函数的执行过程.html",
+				"/E/课程代码/面向对象-六天/面向对象06-课程代码/05-构造函数的return语句.html",
+				"/E/课程代码/面向对象-六天/面向对象06-课程代码/06-面试题.html",
+				"/E/课程代码/Vue框架-8天/Vue基础第2天代码/vue生命周期/vue2.0生命周期.html",
+				"/C/Users/Administrator/Desktop/test/test2.html",
+				"/C/Users/Administrator/Desktop/jiao/vuetest/config/index.js",
+				"/C/Users/Administrator/Desktop/MMBAPP/js/category.js",
+				"/C/Users/Administrator/Desktop/test/demo.html",
+				"/E/课程代码/Vue框架-8天/Vue基础第3天代码/组件/06v-el和v-ref以及ref.html",
+				"/C/Users/Administrator/Desktop/MMBAPP/category.html",
+				"/E/课程代码/Canvas基础与面向对象-三天/Canvas基础与面向对象-第03天课程代码/04-绘制游戏小人.html",
+				"/E/课程代码/Canvas基础与面向对象-三天/Canvas基础与面向对象-第03天课程代码/05-绘制动画.html",
+				"/E/课程代码/Vue框架-8天/Vue基础第3天代码/05watch的使用.html",
+				"/E/课程代码/Vue框架-8天/Vue基础第3天代码/组件/05子组件向父组件的传值.html",
+				"/E/课程代码/jQuery-三天/_JQuery01-代码/jQuery010类选择器案例.html",
+				"/E/课程代码/jQuery-三天/_JQuery01-代码/jQuery003总结jQuery中的顶级对象.html",
+				"/E/课程代码/jQuery-三天/_JQuery01-代码/jQuery004页面的加载事件.html",
+				"/E/课程代码/jQuery-三天/_JQuery01-代码/jQuery005jQuery对象和DOM对象互转问题.html",
+				"/E/课程代码/jQuery-三天/_JQuery03-代码/jQuery001元素绑定多个事件.html",
+				"/E/课程代码/jQuery-三天/_JQuery03-代码/jQuery002bind另一种写法及操作.html",
+				"/E/课程代码/jQuery-三天/_JQuery03-代码/jQuery003on绑定事件.html",
+				"/C/Users/Administrator/Desktop/2017.8.21/index.html",
+				"/E/课程代码/Canvas基础与面向对象-三天/Canvas基础与面向对象-第01天代码/01-使用Canvas快速入门.html",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/components/shopcar/car.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/components/news/newsinfo.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/components/news/newslist.vue",
+				"/C/Users/Administrator/Desktop/test/函数调用的疑问/test.html",
+				"/C/Users/Administrator/Desktop/jiashoujia/vuetest/package.json",
+				"/C/Users/Administrator/Desktop/jiashoujia/vuetest/build/dev-server.js",
+				"/E/课程代码/jQuery-三天/_JQuery03-代码/jQuery006解绑事件的细节问题.html",
+				"/E/课程代码/H5-C3-六天/C3-03.代码/07.弹性布局基础语法02.html",
+				"/E/课程代码/H5-C3-六天/C3-03.代码/08.弹性布局基础语法03.html",
+				"/E/课程代码/H5-C3-六天/C3-03.代码/10.经典布局.html",
+				"/E/课程代码/H5-C3-六天/C3-03.代码/05.web图标.html",
+				"/E/课程代码/H5-C3-六天/C3-03.代码/06.弹性布局基础语法.html",
+				"/E/课程代码/H5-C3-六天/C3-01.代码/04.伪类选择器.html",
+				"/E/课程代码/H5-C3-六天/C3-01.代码/03.属性选择器基本使用.html",
+				"/E/课程代码/H5-C3-六天/C3-01.代码/02.属性选择器.html",
+				"/E/课程代码/H5-C3-六天/C3-01.代码/05.伪类选择器日历.html",
+				"/E/课程代码/jQuery-三天/_JQuery01-代码/jQuery015层次选择器案例.html",
+				"/E/课程代码/jQuery-三天/_JQuery01-代码/jQuery017隔行变色案例.html",
+				"/E/课程代码/jQuery-三天/_JQuery01-代码/jQuery018索引选择器案例.html",
+				"/E/课程代码/jQuery-三天/_JQuery02-代码/jQuery001操作类样式.html",
+				"/E/课程代码/jQuery-三天/_JQuery02-代码/jQuery009获取兄弟元素的方法.html",
+				"/E/课程代码/jQuery-三天/_JQuery02-代码/jQuery010获取兄弟元素方法的案例.html",
+				"/E/课程代码/jQuery-三天/_JQuery02-代码/jQuery011常见的动画方法.html",
+				"/E/课程代码/jQuery-三天/_JQuery02-代码/jQuery017动态创建元素.html",
+				"/E/课程代码/H5-C3-六天/C3-01.代码/06.伪元素选择器01.html",
+				"/E/07_移动web_全集/13.rem适配.html",
+				"/E/课程代码/H5-C3-六天/C3-01.代码/07.伪元素选择器02.html",
+				"/E/课程代码/H5-C3-六天/C3-01.代码/08.伪元素选择器Demo.html",
+				"/E/课程代码/H5-C3-六天/C3-01.代码/09.颜色设置.html",
+				"/E/课程代码/H5-C3-六天/C3-01.代码/10.文字阴影.html",
+				"/E/课程代码/H5-C3-六天/C3-01.代码/11.浮雕文字.html",
+				"/E/课程代码/H5-C3-六天/C3-01.代码/12.盒子阴影.html",
+				"/E/课程代码/面向对象-六天/面向对象05-课程代码/13-闭包的应用-利用闭包实现私有数据.html",
+				"/E/课程代码/面向对象-六天/面向对象05-课程代码/14-闭包的引用-简化递归.html",
+				"/E/课程代码/面向对象-六天/面向对象05-课程代码/16-闭包的应用-带有事件移除与追加的对象.html",
+				"/E/课程代码/面向对象-六天/面向对象05-课程代码/01-复习.html",
+				"/E/课程代码/面向对象-六天/面向对象05-课程代码/12-闭包的应用-获得闭包中多个数据.html",
+				"/C/Users/Administrator/Desktop/项目整理/MobileShopProject/js/baicaijia.js",
+				"/C/Users/Administrator/Desktop/项目整理/MobileShopProject/js/inlanddiscount.js",
+				"/C/Users/Administrator/Desktop/MMBAPP/js/less.js",
+				"/E/课程代码/面向对象-六天/面向对象05-课程代码/17-闭包的应用-缓存函数对象.html",
+				"/E/课程代码/面向对象-六天/面向对象05-课程代码/15-闭包的引用-简化递归-实现代码.html",
+				"/C/Users/Administrator/Desktop/MMBAPP/js/inlanddiscount.js",
+				"/E/课程代码/面向对象-六天/面向对象05-课程代码/11-递归-使用递归实现getELementsByClassName.html",
+				"/E/课程代码/面向对象-六天/面向对象05-课程代码/10-递归-深拷贝的实现-02.html",
+				"/E/课程代码/服务器与ajax-五天/源代码第三天/demo/07.html",
+				"/E/课程代码/服务器与ajax-五天/源代码第三天/demo/08.html",
+				"/E/课程代码/服务器与ajax-五天/源代码第三天/demo/09.html"
+			],
+			"find":
+			{
+				"height": 43.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"prop",
+					"props",
+					"getcount",
+					"silder",
+					";\n",
+					"150",
+					"1000",
+					"b-grade.png",
+					"b-grade.pn",
+					"10%",
+					"20%",
+					"	/* background-repeat: no-repeat; */",
+					"content-box",
+					"cover",
+					"contain",
+					"background-repeat: no-repeat;",
+					"no-repeat",
+					"contain",
+					"/* 	background-repeat: no-repeat; */",
+					"	background-repeat: no-repeat;",
+					"cover",
+					"data",
+					"{\n",
+					">\n",
+					"0.5",
+					".1",
+					"#ul",
+					">\n",
+					"可以对其直接操作",
+					"')\n",
+					"overflow:hidden",
+					"username",
+					"	$",
+					"username",
+					"\\",
+					"等于",
+					"username",
+					"\\",
+					"username",
+					"POST",
+					"(",
+					"username",
+					"score",
+					"'",
+					".'<br>'",
+					"i",
+					"\\Desktop\\",
+					"virtual hosts",
+					"#header > .navbar-default > .container >",
+					"#header > .navbar-default",
+					"#header > .topbar > .container",
+					"#header > .topbar",
+					".container .row ",
+					"red",
+					"danger;",
+					"danger",
+					"red",
+					"dranger",
+					"div",
+					"col-lg-3",
+					"md",
+					"col-lg-3",
+					"lg",
+					"1",
+					"md",
+					"17.0.28.0",
+					"btn1",
+					"/",
+					"-",
+					"+",
+					"第",
+					"一",
+					"red",
+					"fixed",
+					"2",
+					" 2",
+					"网页",
+					"right",
+					"left",
+					"span",
+					"第二个导航",
+					"0f0",
+					"1",
+					"百度",
+					"dt",
+					"dl",
+					"dd",
+					"dt",
+					"dd",
+					"dt",
+					"dl",
+					"bgred",
+					"p",
+					"ul",
+					"ol",
+					"广东省",
+					"浙江省",
+					"<a href=\"#\">导航菜单</a>",
+					"header",
+					"广东省",
+					"浙江省",
+					"h3",
+					"h1",
+					"<a href=\"#\"",
+					"h1",
+					"[微博]",
+					"h4",
+					"h1",
+					"上海市",
+					"北京市",
+					"collapseOne",
+					"img src=\"",
+					"主页",
+					"<li",
+					"&rsquo;",
+					"&lsquo;",
+					"#",
+					"-",
+					"<li",
+					"btn",
+					"div",
+					"这是",
+					"search/",
+					"nowplaying",
+					"later",
+					"nowplaying",
+					"ng-class=\"{'disable':pageid == 1}\" ",
+					"nowplaying"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"li",
+					"ul",
+					"jquery",
+					"000000",
+					"navbar-weijinsuo"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 33.0
+			},
+			"input":
+			{
+				"height": 154.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"angular\\day07\\4-code\\MMBAPP-angular\\js\\category.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 185.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1364.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"to",
+						"toshopcar	(goodsinfo.vue)"
+					],
+					[
+						"goods",
+						"goodscomment"
+					],
+					[
+						"img",
+						"imgs"
+					],
+					[
+						"com",
+						"components	(goodsinfo.vue)"
+					],
+					[
+						"good",
+						"goodlist.vue"
+					],
+					[
+						"creat",
+						"createElement()	Document"
+					],
+					[
+						"pr",
+						"pos-r	position: relative;"
+					],
+					[
+						"flex",
+						"flex-start"
+					],
+					[
+						"trans",
+						"transition"
+					],
+					[
+						"get",
+						"get_num"
+					],
+					[
+						"for",
+						"foreach()	Array"
+					],
+					[
+						"i",
+						"i	<i/>"
+					],
+					[
+						"char",
+						"charAt()	String"
+					],
+					[
+						"router",
+						"router-link	(06watch来监控路由对象.html)"
+					],
+					[
+						"Vue",
+						"VueRouter	(06watch来监控路由对象.html)"
+					],
+					[
+						"content",
+						"content-box	(13.盒模型.html)"
+					],
+					[
+						"news",
+						"newslist	(Home.vue)"
+					],
+					[
+						"q",
+						"querySelector()"
+					],
+					[
+						"getelement",
+						"getElementsByTagName()"
+					],
+					[
+						"send",
+						"senddata"
+					],
+					[
+						"add",
+						"addData	(02实现品牌数据添加.html)"
+					],
+					[
+						"k",
+						"k+\"出现了\"+o"
+					],
+					[
+						"indexO",
+						"indexOf()	Array"
+					],
+					[
+						"stime",
+						"setTimeout()	Frame"
+					],
+					[
+						"fu",
+						"fun	Function"
+					],
+					[
+						"focus",
+						"focus()"
+					],
+					[
+						"f",
+						"fun	Function"
+					],
+					[
+						"key",
+						"keyCode	Event"
+					],
+					[
+						"clear",
+						"clearAll"
+					],
+					[
+						"pop",
+						"popData	(案例.html)"
+					],
+					[
+						"col",
+						"collapse	collapse"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"bc",
+						"bdcl-c	border-collapse: collapse;"
+					],
+					[
+						"setti",
+						"setTimeout()	Frame"
+					],
+					[
+						"int",
+						"setInterval()	Frame"
+					],
+					[
+						"timer",
+						"timerId"
+					],
+					[
+						"ng-",
+						"ng-submit"
+					],
+					[
+						"it",
+						"item"
+					],
+					[
+						"edit",
+						"editing"
+					],
+					[
+						"is",
+						"isEditingId"
+					],
+					[
+						"ed",
+						"editing"
+					],
+					[
+						"margin",
+						"margin-right"
+					],
+					[
+						"remove",
+						"removeChild()"
+					],
+					[
+						"getElements",
+						"getElementsByTagName()"
+					],
+					[
+						"getel",
+						"getElementById()	Document"
+					],
+					[
+						"input",
+						"inputs"
+					],
+					[
+						"inner",
+						"innerText	(01innerHTML和innerText.html)"
+					],
+					[
+						"replace",
+						"replaceClassName	(方法封装.html)"
+					],
+					[
+						"class",
+						"className"
+					],
+					[
+						"ge",
+						"getElements	(07批量获取元素.html)"
+					],
+					[
+						"bgc",
+						"backgroundColor	css"
+					],
+					[
+						"in",
+						"input"
+					],
+					[
+						"no",
+						"no-repeat	(15.背景图片大小及多重背景.html)"
+					],
+					[
+						"ba",
+						"background-repeat	(15.背景图片大小及多重背景.html)"
+					],
+					[
+						"lin",
+						"line-height"
+					],
+					[
+						"border",
+						"border"
+					],
+					[
+						"mar",
+						"margin-left"
+					],
+					[
+						"padding",
+						"padding-left"
+					],
+					[
+						"sett",
+						"setTimeout()	Frame"
+					],
+					[
+						"cit",
+						"cityCode"
+					],
+					[
+						"call",
+						"callback"
+					],
+					[
+						"dg",
+						"dgid	document.getElementById"
+					],
+					[
+						"strig",
+						"stringify()	JSON"
+					],
+					[
+						"res",
+						"responseText	(01-ajax-experience.html)"
+					],
+					[
+						"12-",
+						"12-iframeLogin.php"
+					],
+					[
+						"_",
+						"_POST	(page5-post.php)"
+					],
+					[
+						"re",
+						"recommen"
+					],
+					[
+						"cla",
+						"callback"
+					],
+					[
+						"pag",
+						"page9-nav.php"
+					],
+					[
+						"men",
+						"menu-item"
+					],
+					[
+						"page8",
+						"page8-ajax.php"
+					],
+					[
+						"read",
+						"readyState	Document"
+					],
+					[
+						"cell",
+						"cellspacing	Attr"
+					],
+					[
+						"ce",
+						"cellpadding	Attr"
+					],
+					[
+						"arr",
+						"array	$… = array (…)"
+					],
+					[
+						"header",
+						"header	beautify ignore"
+					],
+					[
+						"json",
+						"json_encode	(php.md)"
+					],
+					[
+						"proto",
+						"prototype"
+					],
+					[
+						"ul-p",
+						"ul-wapper	(index.html)"
+					],
+					[
+						"sc",
+						"scroll"
+					],
+					[
+						"hidden",
+						"hidden-xs"
+					],
+					[
+						"pull",
+						"pull-left"
+					],
+					[
+						"borderr",
+						"border-radius"
+					],
+					[
+						"ac",
+						"active"
+					],
+					[
+						"tr",
+						"transparent"
+					],
+					[
+						"pa",
+						"padding"
+					],
+					[
+						"w",
+						"weijinsuo/"
+					],
+					[
+						"cont",
+						"container"
+					],
+					[
+						"l",
+						"lib/"
+					],
+					[
+						"btn-",
+						"btn-danger	(index.html)"
+					],
+					[
+						"max",
+						"max-width"
+					],
+					[
+						"type",
+						"type=\"button	(12-DOM操作.html)"
+					],
+					[
+						"clas",
+						"classList"
+					],
+					[
+						"image",
+						"images/"
+					],
+					[
+						"docu",
+						"document	(09-for循环.html)"
+					],
+					[
+						"le",
+						"length"
+					],
+					[
+						"shen",
+						"shengao"
+					],
+					[
+						"seh",
+						"shengao"
+					],
+					[
+						"box",
+						"box-sizing"
+					],
+					[
+						"padd",
+						"padding-left"
+					],
+					[
+						"targ",
+						"targetSection"
+					],
+					[
+						"data",
+						"data-target"
+					],
+					[
+						"gete",
+						"getElementsByTagName()"
+					],
+					[
+						"border-r",
+						"border-radius"
+					],
+					[
+						"inf",
+						"infinite	(32-动画的使用.html)"
+					],
+					[
+						"r2c",
+						"r2_c2.png	w:120 h:288"
+					],
+					[
+						"mari",
+						"margin-top"
+					],
+					[
+						"tras",
+						"transform"
+					],
+					[
+						"tran",
+						"translate"
+					],
+					[
+						"r",
+						"r1_c1.png	w:1519 h:44"
+					],
+					[
+						"lef",
+						"left.png	w:37 h:69"
+					],
+					[
+						"xia",
+						"xiaom_left.png	w:234 h:457"
+					],
+					[
+						"z",
+						"z-index"
+					],
+					[
+						"p",
+						"padding-left"
+					],
+					[
+						"padding-",
+						"padding-top"
+					],
+					[
+						"ov",
+						"overflow"
+					],
+					[
+						"b",
+						"button2.jpg	w:80 h:32"
+					],
+					[
+						"text-",
+						"text-align"
+					],
+					[
+						"borde",
+						"border-right"
+					],
+					[
+						"box-",
+						"box-shadow"
+					],
+					[
+						"padin",
+						"padding-bottom"
+					],
+					[
+						"conte",
+						"content-box"
+					],
+					[
+						"box-s",
+						"box-sizing"
+					],
+					[
+						"border-",
+						"border-radius"
+					],
+					[
+						"border-s",
+						"border-style"
+					],
+					[
+						"paddi",
+						"padding-top"
+					],
+					[
+						"bac",
+						"background-image"
+					],
+					[
+						"backg",
+						"background-image"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/components/Home.vue",
+					"settings":
+					{
+						"buffer_size": 4663,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/main.js",
+					"settings":
+					{
+						"buffer_size": 2308,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/App.vue",
+					"settings":
+					{
+						"buffer_size": 1832,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/components/news/newslist.vue",
+					"settings":
+					{
+						"buffer_size": 2210,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"last_filter": "pack",
+				"selected_items":
+				[
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"setj",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"open",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"markdow",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"save",
+						"Markdown Preview: Save to HTML"
+					],
+					[
+						"add",
+						"Package Control: Add Repository"
+					],
+					[
+						"addr",
+						"Package Control: Add Repository"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"mar",
+						"Markdown Preview: Save to HTML"
+					],
+					[
+						"openso",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"ex",
+						"Export to HTML: Show Export Menu"
+					],
+					[
+						"markdown",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"d",
+						"File: Delete"
+					],
+					[
+						"de",
+						"File: Delete"
+					],
+					[
+						"pre",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"delet",
+						"File: Delete"
+					],
+					[
+						"prev",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"set html",
+						"Set Syntax: HTML"
+					],
+					[
+						"package",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"r",
+						"Package Control: Remove Package"
+					],
+					[
+						"re",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"mark",
+						"Markdown Preview: Save to HTML"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 650.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/components",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/components/news",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/components/subcom",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/kits",
+				"/E/课程代码/Vue框架-8天/Vue基础第8天代码/01vue项目 - 商品详情 - 实现商品详情中点击购物车按钮后将购买数量同步到底部购物车徽章中.avi",
+				"/E/课程代码/Vue框架-8天/Vue基础第8天代码/01vue项目 - 商品详情 - 实现商品详情中点击购物车按钮后将购买数量同步到底部购物车徽章中.avi/src",
+				"/E/课程代码/Vue框架-8天/Vue基础第8天代码/01vue项目 - 商品详情 - 实现商品详情中点击购物车按钮后将购买数量同步到底部购物车徽章中.avi/src/components",
+				"/E/课程代码/Vue框架-8天/Vue基础第8天代码/01vue项目 - 商品详情 - 实现商品详情中点击购物车按钮后将购买数量同步到底部购物车徽章中.avi/src/components/goods",
+				"/E/课程代码/Vue框架-8天/Vue基础第8天代码/01vue项目 - 商品详情 - 实现商品详情中点击购物车按钮后将购买数量同步到底部购物车徽章中.avi/src/kits"
+			],
+			"file_history":
+			[
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/App.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/components/subcom/comment.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/components/photo/photoinfo.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/components/goods/goodsinfo.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/components/subcom/silder.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/components/subcom/inputNumber.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第8天代码/01vue项目 - 商品详情 - 实现商品详情中点击购物车按钮后将购买数量同步到底部购物车徽章中.avi/src/App.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第8天代码/01vue项目 - 商品详情 - 实现商品详情中点击购物车按钮后将购买数量同步到底部购物车徽章中.avi/src/kits/vm.js",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/kits/vm.js",
+				"/E/课程代码/Vue框架-8天/Vue基础第8天代码/01vue项目 - 商品详情 - 实现商品详情中点击购物车按钮后将购买数量同步到底部购物车徽章中.avi/src/components/goods/goodsinfo.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/components/photo/photolist.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/components/goods/goodsdesc.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/components/goods/goodscomment.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/12vue项目 - 商品详情 - 实现商品详情页面的购买区域中的inputNumber组件功能.avi/src/components/subcom/inputNumber.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/12vue项目 - 商品详情 - 实现商品详情页面的购买区域中的inputNumber组件功能.avi/src/components/goods/goodsinfo.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/12vue项目 - 商品详情 - 实现商品详情页面的购买区域中的inputNumber组件功能.avi/src/components/shopcar/car.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/main.js",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/11vue项目 - 商品详情 - 实现商品详情页面的评论组件页面.avi/src/components/goods/goodscomment.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/11vue项目 - 商品详情 - 实现商品详情页面的评论组件页面.avi/src/components/goods/goodsinfo.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/11vue项目 - 商品详情 - 实现商品详情页面的评论组件页面.avi/src/components/goods/goodsdesc.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/10vue项目 - 商品详情 - 实现商品详情页面的图文详情开发.avi/src/components/goods/goodsinfo.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/10vue项目 - 商品详情 - 实现商品详情页面的图文详情开发.avi/src/main.js",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/10vue项目 - 商品详情 - 实现商品详情页面的图文详情开发.avi/src/components/goods/goodsdesc.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/09vue项目 - 商品详情 - 实现商品详情页面的详情数据动态化.avi/src/components/goods/goodsinfo.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/08vue项目 - 商品详情 - 实现商品详情页面的其他区域静态结构设计.avi/src/components/goods/goodsinfo.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/package.json",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/webpack.config.js",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/07vue项目 - 商品详情 - 实现商品轮播图组件的提取silder.vue.avi/src/components/goods/goodsinfo.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/components/Home.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/07vue项目 - 商品详情 - 实现商品轮播图组件的提取silder.vue.avi/src/components/Home.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/07vue项目 - 商品详情 - 实现商品轮播图组件的提取silder.vue.avi/src/components/subcom/silder.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/05vue项目 - 商品详情 - 实现从商品列表页面跳转到详情页面功能代码.avi/src/main.js",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/05vue项目 - 商品详情 - 实现从商品列表页面跳转到详情页面功能代码.avi/src/components/goods/goodslist.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/components/goods/goodslist.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/05vue项目 - 商品详情 - 实现从商品列表页面跳转到详情页面功能代码.avi/src/components/goods/goodsinfo.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/05vue项目 - 商品详情 - 实现从商品列表页面跳转到详情页面功能代码.avi/src/kits/common.js",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/04vue项目 - 商品购买- 实现商品购买列表页面的数据动态化.avi/src/components/goods/goodslist.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/03vue项目 - 商品购买- 实现商品购买列表页面的静态结构.avi/src/components/goods/goodslist.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/03vue项目 - 商品购买- 实现商品购买列表页面的静态结构.avi/src/main.js",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/03vue项目 - 商品购买- 实现商品购买列表页面的静态结构.avi/src/components/photo/photoinfo.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/03vue项目 - 商品购买- 实现商品购买列表页面的静态结构.avi/src/components/photo/photolist.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/03vue项目 - 商品购买- 实现商品购买列表页面的静态结构.avi/src/components/Home.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/03vue项目 - 商品购买- 实现商品购买列表页面的静态结构.avi/src/App.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/components/goods/goodlist.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/components/good/goodlist.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/components/good",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/components/subcom/good",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/kits/common.js",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/02vue项目 - 图片分享详情- 实现图片分享详情页的缩略图的数据动态化.avi/src/kits/common.js",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/02vue项目 - 图片分享详情- 实现图片分享详情页的缩略图的数据动态化.avi/src/components/photo/photoinfo.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第7天代码/01vue项目 - 图片分享详情- 实现图片分享详情页的缩略图9宫格样式和预览图片vue-preview的使用.avi/src/components/photo/photoinfo.vue",
+				"/E/软件和工具/sublime-zw1/Data/Packages/Sublime-HTMLPrettify-master/.jsbeautifyrc",
+				"/E/课程代码/Vue框架-8天/Vue基础第2天代码/vue生命周期/vue1.0生命周期.html",
+				"/E/Vue框架(8days)/Vue项目第5天/Vue基础第5天代码/vueitcastsy/src/App.vue",
+				"/E/课程代码/面向对象-六天/面向对象05-课程代码/03-递归-阶乘的练习.html",
+				"/E/课程代码/面向对象-六天/面向对象05-课程代码/05-递归-等差数列.html",
+				"/E/课程代码/面向对象-六天/面向对象05-课程代码/07-递归练习.html",
+				"/E/课程代码/面向对象-六天/面向对象06-课程代码/04-构造函数的执行过程.html",
+				"/E/课程代码/面向对象-六天/面向对象06-课程代码/05-构造函数的return语句.html",
+				"/E/课程代码/面向对象-六天/面向对象06-课程代码/06-面试题.html",
+				"/E/课程代码/Vue框架-8天/Vue基础第2天代码/vue生命周期/vue2.0生命周期.html",
+				"/C/Users/Administrator/Desktop/test/test2.html",
+				"/C/Users/Administrator/Desktop/jiao/vuetest/config/index.js",
+				"/C/Users/Administrator/Desktop/MMBAPP/js/category.js",
+				"/C/Users/Administrator/Desktop/test/demo.html",
+				"/E/课程代码/Vue框架-8天/Vue基础第3天代码/组件/06v-el和v-ref以及ref.html",
+				"/C/Users/Administrator/Desktop/MMBAPP/category.html",
+				"/E/课程代码/Canvas基础与面向对象-三天/Canvas基础与面向对象-第03天课程代码/04-绘制游戏小人.html",
+				"/E/课程代码/Canvas基础与面向对象-三天/Canvas基础与面向对象-第03天课程代码/05-绘制动画.html",
+				"/E/课程代码/Vue框架-8天/Vue基础第3天代码/05watch的使用.html",
+				"/E/课程代码/Vue框架-8天/Vue基础第3天代码/组件/05子组件向父组件的传值.html",
+				"/E/课程代码/jQuery-三天/_JQuery01-代码/jQuery010类选择器案例.html",
+				"/E/课程代码/jQuery-三天/_JQuery01-代码/jQuery003总结jQuery中的顶级对象.html",
+				"/E/课程代码/jQuery-三天/_JQuery01-代码/jQuery004页面的加载事件.html",
+				"/E/课程代码/jQuery-三天/_JQuery01-代码/jQuery005jQuery对象和DOM对象互转问题.html",
+				"/E/课程代码/jQuery-三天/_JQuery03-代码/jQuery001元素绑定多个事件.html",
+				"/E/课程代码/jQuery-三天/_JQuery03-代码/jQuery002bind另一种写法及操作.html",
+				"/E/课程代码/jQuery-三天/_JQuery03-代码/jQuery003on绑定事件.html",
+				"/C/Users/Administrator/Desktop/2017.8.21/index.html",
+				"/E/课程代码/Canvas基础与面向对象-三天/Canvas基础与面向对象-第01天代码/01-使用Canvas快速入门.html",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/components/shopcar/car.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/components/news/newsinfo.vue",
+				"/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/components/news/newslist.vue",
+				"/C/Users/Administrator/Desktop/test/函数调用的疑问/test.html",
+				"/C/Users/Administrator/Desktop/jiashoujia/vuetest/package.json",
+				"/C/Users/Administrator/Desktop/jiashoujia/vuetest/build/dev-server.js",
+				"/E/课程代码/jQuery-三天/_JQuery03-代码/jQuery006解绑事件的细节问题.html",
+				"/E/课程代码/H5-C3-六天/C3-03.代码/07.弹性布局基础语法02.html",
+				"/E/课程代码/H5-C3-六天/C3-03.代码/08.弹性布局基础语法03.html",
+				"/E/课程代码/H5-C3-六天/C3-03.代码/10.经典布局.html",
+				"/E/课程代码/H5-C3-六天/C3-03.代码/05.web图标.html",
+				"/E/课程代码/H5-C3-六天/C3-03.代码/06.弹性布局基础语法.html",
+				"/E/课程代码/H5-C3-六天/C3-01.代码/04.伪类选择器.html",
+				"/E/课程代码/H5-C3-六天/C3-01.代码/03.属性选择器基本使用.html",
+				"/E/课程代码/H5-C3-六天/C3-01.代码/02.属性选择器.html",
+				"/E/课程代码/H5-C3-六天/C3-01.代码/05.伪类选择器日历.html",
+				"/E/课程代码/jQuery-三天/_JQuery01-代码/jQuery015层次选择器案例.html",
+				"/E/课程代码/jQuery-三天/_JQuery01-代码/jQuery017隔行变色案例.html",
+				"/E/课程代码/jQuery-三天/_JQuery01-代码/jQuery018索引选择器案例.html",
+				"/E/课程代码/jQuery-三天/_JQuery02-代码/jQuery001操作类样式.html",
+				"/E/课程代码/jQuery-三天/_JQuery02-代码/jQuery009获取兄弟元素的方法.html",
+				"/E/课程代码/jQuery-三天/_JQuery02-代码/jQuery010获取兄弟元素方法的案例.html",
+				"/E/课程代码/jQuery-三天/_JQuery02-代码/jQuery011常见的动画方法.html",
+				"/E/课程代码/jQuery-三天/_JQuery02-代码/jQuery017动态创建元素.html",
+				"/E/课程代码/H5-C3-六天/C3-01.代码/06.伪元素选择器01.html",
+				"/E/07_移动web_全集/13.rem适配.html",
+				"/E/课程代码/H5-C3-六天/C3-01.代码/07.伪元素选择器02.html",
+				"/E/课程代码/H5-C3-六天/C3-01.代码/08.伪元素选择器Demo.html",
+				"/E/课程代码/H5-C3-六天/C3-01.代码/09.颜色设置.html",
+				"/E/课程代码/H5-C3-六天/C3-01.代码/10.文字阴影.html",
+				"/E/课程代码/H5-C3-六天/C3-01.代码/11.浮雕文字.html",
+				"/E/课程代码/H5-C3-六天/C3-01.代码/12.盒子阴影.html",
+				"/E/课程代码/面向对象-六天/面向对象05-课程代码/13-闭包的应用-利用闭包实现私有数据.html",
+				"/E/课程代码/面向对象-六天/面向对象05-课程代码/14-闭包的引用-简化递归.html",
+				"/E/课程代码/面向对象-六天/面向对象05-课程代码/16-闭包的应用-带有事件移除与追加的对象.html",
+				"/E/课程代码/面向对象-六天/面向对象05-课程代码/01-复习.html",
+				"/E/课程代码/面向对象-六天/面向对象05-课程代码/12-闭包的应用-获得闭包中多个数据.html",
+				"/C/Users/Administrator/Desktop/项目整理/MobileShopProject/js/baicaijia.js",
+				"/C/Users/Administrator/Desktop/项目整理/MobileShopProject/js/inlanddiscount.js",
+				"/C/Users/Administrator/Desktop/MMBAPP/js/less.js",
+				"/E/课程代码/面向对象-六天/面向对象05-课程代码/17-闭包的应用-缓存函数对象.html",
+				"/E/课程代码/面向对象-六天/面向对象05-课程代码/15-闭包的引用-简化递归-实现代码.html",
+				"/C/Users/Administrator/Desktop/MMBAPP/js/inlanddiscount.js",
+				"/E/课程代码/面向对象-六天/面向对象05-课程代码/11-递归-使用递归实现getELementsByClassName.html",
+				"/E/课程代码/面向对象-六天/面向对象05-课程代码/10-递归-深拷贝的实现-02.html",
+				"/E/课程代码/服务器与ajax-五天/源代码第三天/demo/07.html",
+				"/E/课程代码/服务器与ajax-五天/源代码第三天/demo/08.html",
+				"/E/课程代码/服务器与ajax-五天/源代码第三天/demo/09.html"
+			],
+			"find":
+			{
+				"height": 43.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"dataobj",
+					"prop",
+					"props",
+					"getcount",
+					"silder",
+					";\n",
+					"150",
+					"1000",
+					"b-grade.png",
+					"b-grade.pn",
+					"10%",
+					"20%",
+					"	/* background-repeat: no-repeat; */",
+					"content-box",
+					"cover",
+					"contain",
+					"background-repeat: no-repeat;",
+					"no-repeat",
+					"contain",
+					"/* 	background-repeat: no-repeat; */",
+					"	background-repeat: no-repeat;",
+					"cover",
+					"data",
+					"{\n",
+					">\n",
+					"0.5",
+					".1",
+					"#ul",
+					">\n",
+					"可以对其直接操作",
+					"')\n",
+					"overflow:hidden",
+					"username",
+					"	$",
+					"username",
+					"\\",
+					"等于",
+					"username",
+					"\\",
+					"username",
+					"POST",
+					"(",
+					"username",
+					"score",
+					"'",
+					".'<br>'",
+					"i",
+					"\\Desktop\\",
+					"virtual hosts",
+					"#header > .navbar-default > .container >",
+					"#header > .navbar-default",
+					"#header > .topbar > .container",
+					"#header > .topbar",
+					".container .row ",
+					"red",
+					"danger;",
+					"danger",
+					"red",
+					"dranger",
+					"div",
+					"col-lg-3",
+					"md",
+					"col-lg-3",
+					"lg",
+					"1",
+					"md",
+					"17.0.28.0",
+					"btn1",
+					"/",
+					"-",
+					"+",
+					"第",
+					"一",
+					"red",
+					"fixed",
+					"2",
+					" 2",
+					"网页",
+					"right",
+					"left",
+					"span",
+					"第二个导航",
+					"0f0",
+					"1",
+					"百度",
+					"dt",
+					"dl",
+					"dd",
+					"dt",
+					"dd",
+					"dt",
+					"dl",
+					"bgred",
+					"p",
+					"ul",
+					"ol",
+					"广东省",
+					"浙江省",
+					"<a href=\"#\">导航菜单</a>",
+					"header",
+					"广东省",
+					"浙江省",
+					"h3",
+					"h1",
+					"<a href=\"#\"",
+					"h1",
+					"[微博]",
+					"h4",
+					"h1",
+					"上海市",
+					"北京市",
+					"collapseOne",
+					"img src=\"",
+					"主页",
+					"<li",
+					"&rsquo;",
+					"&lsquo;",
+					"#",
+					"-",
+					"<li",
+					"btn",
+					"div",
+					"这是",
+					"search/",
+					"nowplaying",
+					"later",
+					"nowplaying",
+					"ng-class=\"{'disable':pageid == 1}\" "
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"li",
+					"ul",
+					"jquery",
+					"000000",
+					"navbar-weijinsuo"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "E:\\课程代码\\Vue框架-8天\\Vue基础第5天代码"
+				},
+				{
+					"path": "E:\\课程代码\\Vue框架-8天\\Vue基础第8天代码\\01vue项目 - 商品详情 - 实现商品详情中点击购物车按钮后将购买数量同步到底部购物车徽章中.avi"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/components/Home.vue",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4663,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1370,
+										1370
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										225,
+										8,
+										2,
+										13,
+										58,
+										23,
+										3,
+										44,
+										50,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"side_bar_folders_auto_load_folder": 1,
+									"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 225.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/main.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2308,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										231,
+										231
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										225,
+										8,
+										2,
+										13,
+										58,
+										23,
+										3,
+										44,
+										50,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"side_bar_folders_auto_load_folder": 1,
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1725.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/App.vue",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1832,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										482,
+										482
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										225,
+										8,
+										2,
+										13,
+										58,
+										23,
+										3,
+										44,
+										50,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"side_bar_folders_auto_load_folder": 1,
+									"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/E/课程代码/Vue框架-8天/Vue基础第5天代码/src/components/news/newslist.vue",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2210,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										225,
+										8,
+										2,
+										13,
+										58,
+										23,
+										3,
+										44,
+										50,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"side_bar_folders_auto_load_folder": 1,
+									"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 300.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 33.0
+			},
+			"input":
+			{
+				"height": 154.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.779380962647,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,733,13,20,1393",
+			"project": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"angular\\day07\\4-code\\MMBAPP-angular\\js\\category.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 216.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 85,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

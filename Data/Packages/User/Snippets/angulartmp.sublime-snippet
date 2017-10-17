@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<!-- 2.在页面上指定一个ng-app 表示body里面的内容属于angular的管辖范围-->
+<body ng-app>
+	<!-- 1.引入angular js文件 -->
+	<script src="${1:node_modules/angular/angular.js}"></script>
+</body>
+</html>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ng</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.html</scope> -->
+</snippet>

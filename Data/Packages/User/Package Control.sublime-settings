@@ -10,6 +10,7 @@
 		"AngularJS",
 		"AutoFileName",
 		"Babel",
+		"Bootstrap 4 Snippets",
 		"ChineseLocalizations",
 		"Color Highlighter",
 		"ColorPicker",
@@ -19,15 +20,16 @@
 		"Emmet",
 		"FileHeader",
 		"Git",
-		"GitGutter",
-		"Github Tools",
+		"Highlight",
 		"HTML-CSS-JS Prettify",
 		"Http Requester",
 		"IMESupport",
 		"JsFormat",
 		"Markdown Preview",
+		"MarkdownEditing",
 		"Material Theme",
 		"Package Control",
+		"PackageResourceViewer",
 		"SideBarEnhancements",
 		"SideBarFolders",
 		"SideBarGit",
@@ -36,6 +38,12 @@
 		"Terminal",
 		"Theme - Soda",
 		"TodoReview",
+		"Vue Syntax Highlight",
 		"Xtemplate"
+	],
+	"repositories":
+	[
+		"https://github.com/n1k0/SublimeHighlight/tree/python3",
+		"https://github.com/n1k0/SublimeHighlight/tree/python3"
 	]
 }

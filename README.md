@@ -1,6 +1,15 @@
+---
+title: HTML5的基础学习
+date: 2016-10-06 15:30:24
+categories: blog
+tags: HTML5基础,HTML5]
+---
+
 ## 郑维sublime自定义代码段快捷键
+
 ### HTML 
 - tmp => <%= ${1:name} %>
+
 ### CSS
 - tfr  => transform: rotate(${1:100}deg);
 - tfrx => transform: rotateX(${1:100}deg);
@@ -23,6 +32,7 @@
 - bs   => border: ${1:1}px solid ${3:#ccc};
 - bd   => border: ${1:1}px dashed ${3:#ccc};
 - mat  => margin: ${1:0}px auto;
+
 ### JS 
 - clg  => console.log(${1:log});
 - dgid => document.getElementById
